@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace CompanyRoster
 {
-    \\test1
     class Person
     {
         public string name;
@@ -28,7 +27,6 @@ namespace CompanyRoster
     }
     class Program
     {
-        // test
         static void Main(string[] args)
         {
             var input = int.Parse(Console.ReadLine());
