@@ -27,6 +27,7 @@ namespace CompanyRoster
     }
     class Program
     {
+        // test
         static void Main(string[] args)
         {
             var input = int.Parse(Console.ReadLine());
